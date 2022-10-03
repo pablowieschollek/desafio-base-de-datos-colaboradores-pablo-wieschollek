@@ -2,8 +2,7 @@
   "name": "pablo-wieschollek-desafio-base-de-datos-colaboradores",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pablowieschollek.github.io/galeria.de.imagenes.con.react",
-
+  "homepage": "https://pablowieschollek.github.io/desafio.base.de.datos.colaboradores",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
